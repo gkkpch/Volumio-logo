@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Volumio2 Logo
+Description=A theme that features a blank background with a Volumio2 logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/volumio-logo
+ScriptFile=/lib/plymouth/themes/volumio-logo/volumio-logo.script

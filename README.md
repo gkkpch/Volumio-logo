@@ -1,4 +1,4 @@
-# Volumio-logo
+# Plymouth Volumio Logo Theme
 
-A Plymouth theme that features a blank background with a Volumio logo.
-Based on Plymouth Ubuntu Logo theme.
+A theme that features a blank background with a Volumio2 logo.
+Based on Plymouth Lubuntu Logo theme.
